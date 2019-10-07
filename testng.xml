@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<!-- <listeners>
+
+<listener class-name=""></listener>
+
+</listeners> -->
+  <test thread-count="5" name="Test">
+  
+  
+  <parameter name="ReportName" value="Regression Report"></parameter>
+  <parameter name="ProjectName" value="Test Project"></parameter>
+  <parameter name="buildName" value="RC1.0.13"></parameter>
+  <parameter name="browserName" value="chrome"></parameter>
+  <parameter name="environment" value="qa"></parameter>
+    <classes>
+      <class name="com.HMS.TestCases.HMSTestCases"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

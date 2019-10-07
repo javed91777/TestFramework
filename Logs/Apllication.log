@@ -1,0 +1,80 @@
+27 Nov 21:28:50,192 INFO - Configuration of reporting logs .......... 
+27 Nov 21:28:51,093 INFO - Configuration of reporting logs successfully.......... 
+27 Nov 21:28:51,094 INFO - Choosing BrowserType 
+27 Nov 21:28:55,127 INFO - Choosing BrowserType successfully as........chrome 
+27 Nov 21:28:56,269 INFO - Choosing Environment Mode 
+27 Nov 21:28:56,269 INFO - Choosing Environment Mode successfully as......... qa 
+27 Nov 21:28:59,553 INFO - Navigated to URL : http://selenium4testing.com/hms/ 
+27 Nov 21:28:59,553 INFO - Choosing Environment Mode successfully as......... qa 
+27 Nov 21:29:00,369 INFO - Clearing username filed By.xpath: //input[@name='username'] 
+27 Nov 21:29:00,477 INFO - passing data to the username filed By.xpath: //input[@name='username'] 
+27 Nov 21:29:00,574 INFO - Clearing password filed By.xpath: //input[@name='password'] 
+27 Nov 21:29:00,665 INFO - Passing data to password filed By.xpath: //input[@name='password'] 
+27 Nov 21:29:01,857 INFO - Clicking on login button By.xpath: //input[@name='submit'] 
+27 Nov 21:29:02,992 INFO - Clicking on Logout Button By.xpath: //a[@href='logout.php'] 
+27 Nov 22:02:57,396 INFO - Configuration of reporting logs .......... 
+27 Nov 22:02:58,629 INFO - Configuration of reporting logs successfully.......... 
+27 Nov 22:02:58,652 INFO - Choosing BrowserType 
+27 Nov 22:03:02,970 INFO - Choosing BrowserType successfully as........chrome 
+27 Nov 22:03:04,170 INFO - Choosing Environment Mode 
+27 Nov 22:03:04,175 INFO - Choosing Environment Mode successfully as......... qa 
+27 Nov 22:03:04,998 INFO - Navigated to URL : http://selenium4testing.com/hms/ 
+27 Nov 22:03:04,998 INFO - Choosing Environment Mode successfully as......... qa 
+27 Nov 22:03:06,518 INFO - Clearing username filed By.xpath: //input[@name='username'] 
+27 Nov 22:03:06,641 INFO - passing data to the username filed By.xpath: //input[@name='username'] 
+27 Nov 22:03:06,725 INFO - Clearing password filed By.xpath: //input[@name='password'] 
+27 Nov 22:03:06,804 INFO - Passing data to password filed By.xpath: //input[@name='password'] 
+27 Nov 22:03:09,184 INFO - Clicking on login button By.xpath: //input[@name='submit'] 
+27 Nov 22:03:10,172 INFO - Clicking on Logout Button By.xpath: //a[@href='logout.php'] 
+27 Nov 22:47:22,594 INFO - Configuration of reporting logs .......... 
+27 Nov 22:47:23,609 INFO - Configuration of reporting logs successfully.......... 
+27 Nov 22:47:23,611 INFO - Choosing BrowserType 
+27 Nov 22:47:27,128 INFO - Choosing BrowserType successfully as........chrome 
+27 Nov 22:47:28,258 INFO - Choosing Environment Mode 
+27 Nov 22:47:28,259 INFO - Choosing Environment Mode successfully as......... qa 
+27 Nov 22:47:28,888 INFO - Navigated to URL : http://selenium4testing.com/hms/ 
+27 Nov 22:47:28,889 INFO - Choosing Environment Mode successfully as......... qa 
+27 Nov 22:47:29,822 INFO - Clearing username filed By.xpath: //input[@name='username'] 
+27 Nov 22:47:29,930 INFO - passing data to the username filed By.xpath: //input[@name='username'] 
+27 Nov 22:47:30,028 INFO - Clearing password filed By.xpath: //input[@name='password'] 
+27 Nov 22:47:30,130 INFO - Passing data to password filed By.xpath: //input[@name='password'] 
+27 Nov 22:47:31,103 INFO - Clicking on login button By.xpath: //input[@name='submit'] 
+27 Nov 22:47:32,064 INFO - Clicking on Logout Button By.xpath: //a[@href='logout.php'] 
+27 Nov 22:49:21,948 INFO - Configuration of reporting logs .......... 
+27 Nov 22:49:22,919 INFO - Configuration of reporting logs successfully.......... 
+27 Nov 22:49:22,920 INFO - Choosing BrowserType 
+27 Nov 22:49:26,417 INFO - Choosing BrowserType successfully as........chrome 
+27 Nov 22:49:27,551 INFO - Choosing Environment Mode 
+27 Nov 22:49:27,551 INFO - Choosing Environment Mode successfully as......... qa 
+27 Nov 22:49:27,977 INFO - Navigated to URL : http://selenium4testing.com/hms/ 
+27 Nov 22:49:27,979 INFO - Choosing Environment Mode successfully as......... qa 
+27 Nov 22:49:28,836 INFO - Clearing username filed By.xpath: //input[@name='username'] 
+27 Nov 22:49:28,944 INFO - passing data to the username filed By.xpath: //input[@name='username'] 
+27 Nov 22:49:29,040 INFO - Clearing password filed By.xpath: //input[@name='password'] 
+27 Nov 22:49:29,129 INFO - Passing data to password filed By.xpath: //input[@name='password'] 
+27 Nov 22:49:31,260 INFO - Clicking on login button By.xpath: //input[@name='submit'] 
+27 Nov 22:49:31,372 ERROR - Actual value ....About Application:....is not matching with expected value....About Application:123....... 
+27 Nov 22:49:31,372 ERROR - TestCase failedActual value ....About Application:....is not matching with expected value....About Application:123....... 
+27 Nov 22:49:31,372 ERROR - Actual value ....About Application:....is not matching with expected value....About Application:123....... 
+27 Nov 22:49:34,148 INFO - Clicking on Logout Button By.xpath: //a[@href='logout.php'] 
+27 Nov 23:19:12,961 INFO - Configuration of reporting logs .......... 
+28 Nov 10:59:34,154 INFO - Configuration of reporting logs .......... 
+28 Nov 10:59:34,336 INFO - Configuration of reporting logs successfully.......... 
+28 Nov 10:59:34,337 INFO - Choosing BrowserType 
+28 Nov 10:59:38,245 INFO - Choosing BrowserType successfully as........chrome 
+28 Nov 10:59:39,405 INFO - Choosing Environment Mode 
+28 Nov 10:59:39,423 INFO - Choosing Environment Mode successfully as......... qa 
+28 Nov 10:59:40,314 INFO - Navigated to URL : http://selenium4testing.com/hms/ 
+28 Nov 10:59:40,314 INFO - Choosing Environment Mode successfully as......... qa 
+28 Nov 10:59:41,167 INFO - Clearing username filed By.xpath: //input[@name='username'] 
+28 Nov 10:59:41,256 INFO - passing data to the username filed By.xpath: //input[@name='username'] 
+28 Nov 10:59:41,335 INFO - Clearing password filed By.xpath: //input[@name='password'] 
+28 Nov 10:59:41,414 INFO - Passing data to password filed By.xpath: //input[@name='password'] 
+28 Nov 10:59:42,884 INFO - Clicking on login button By.xpath: //input[@name='submit'] 
+28 Nov 10:59:42,978 ERROR - Actual value ....About Application:....is not matching with expected value....About Application:123....... 
+28 Nov 10:59:42,979 ERROR - TestCase failedActual value ....About Application:....is not matching with expected value....About Application:123....... 
+28 Nov 10:59:42,979 ERROR - Actual value ....About Application:....is not matching with expected value....About Application:123....... 
+28 Nov 10:59:44,364 INFO - Clicking on Logout Button By.xpath: //a[@href='logout.php'] 
+28 Nov 11:37:01,828 INFO - Configuration of reporting logs .......... 
+28 Nov 11:37:02,126 INFO - Configuration of reporting logs successfully.......... 
+28 Nov 11:37:02,138 INFO - Choosing BrowserType 
